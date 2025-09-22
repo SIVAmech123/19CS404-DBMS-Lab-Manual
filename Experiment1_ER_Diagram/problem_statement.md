@@ -51,7 +51,8 @@ Design a database for patient management, appointments, medical records, and bil
 University
 
 ## ER Diagram:
-![alt text](<ER Diagram.png>)
+<img width="1032" height="526" alt="image" src="https://github.com/user-attachments/assets/ee8e16c2-1f26-4642-b977-eed05c3a0c0b" />
+
 
 ## Entities and Attributes:
 - Student: Student Name, Register Number, Age, DOB, Year
