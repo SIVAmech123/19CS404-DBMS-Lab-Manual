@@ -14,7 +14,7 @@ A)Inserting a single record
 INSERT INTO table_name (field_1, field_2, ...) VALUES (value_1, value_2, ...);
 ```
 **Syntax (Multiple Rows):**
-```sql
+```sql 
 INSERT INTO table_name (field_1, field_2, ...) VALUES
 (value_1, value_2, ...),
 (value_3, value_4, ...);
