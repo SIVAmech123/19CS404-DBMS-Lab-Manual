@@ -8,7 +8,7 @@ To study and implement aggregate functions, GROUP BY, and HAVING clause with sui
 ### Aggregate Functions
 These perform calculations on a set of values and return a single value.
 
-- **MIN()** – Smallest value  
+- **MIN()** – Smallest value   
 - **MAX()** – Largest value  
 - **COUNT()** – Number of rows  
 - **SUM()** – Total of values  
