@@ -9,7 +9,7 @@ In PL/SQL, cursors are used to handle query result sets row-by-row.
 
 There are two types of cursors:
 
-- Implicit Cursors: Automatically created by PL/SQL for single-row queries.
+- Implicit Cursors: Automatically created by PL/SQL for single-row queries. 
 - Explicit Cursors: Declared and controlled by the programmer for multi-row queries.
 
 Types of Explicit Cursors:
