@@ -16,7 +16,7 @@ A PL/SQL **procedure** is a subprogram that performs a specific action. It does 
 
 **Syntax:**
 
-```sql
+```sql 
 CREATE OR REPLACE PROCEDURE procedure_name (parameters)
 IS
 BEGIN
